@@ -3,7 +3,7 @@
 ### Estão neste repositório, as questões 2 e 5 do desafio proposto pela plataforma Gulpy:
 
 * Foi utilizada a linguagem Java;
-* O arquivo "Main" contem o código fonte está no diretório "src";
+* O arquivo "Main" contem o código fonte e está no diretório "src";
 * O método "Fibo" resolve a questão 2;
 * O método "ReveseString" resolve a questão 5;
 * O método "main" inicia a aplicação;
